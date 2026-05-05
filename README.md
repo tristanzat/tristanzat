@@ -11,19 +11,19 @@ Hello! My name is Tristan. I'm currently a student at Brigham Young University-I
 ## Technology & Skills
 
 - Languages:
-  - Java
-  - Python
-  - C#
-  - C++
-  - JavaScript
+    - Java
+    - Python
+    - C#
+    - C++
+    - JavaScript
  - Tools:
-  - Visual Studio
-  - VS Code
-  - Azure DevOps
-  - GitHub
+    - Visual Studio
+    - VS Code
+    - Azure DevOps
+    - GitHub
 - Other:
-  - HTML
-  - CSS
+    - HTML
+    - CSS
 
 ## Contacting Me
 
