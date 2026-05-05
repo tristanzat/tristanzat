@@ -6,7 +6,7 @@ Hello! My name is Tristan. I'm currently a student at Brigham Young University-I
 
 - Software Engineer Intern at Portnox
 - I'm currently learning about parallelism and concurrency from my classes on campus.
-- You can view my portfolio [here](tristanzat.github.io/portfolio)!
+- You can view my portfolio [here](https://tristanzat.github.io/portfolio/)!
 
 ## Technology & Skills
 
