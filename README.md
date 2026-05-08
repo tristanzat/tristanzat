@@ -15,6 +15,7 @@ Hello! My name is Tristan. I'm currently a student at Brigham Young University-I
     - Python
     - C#
     - C++
+    - SQL
     - JavaScript
  - Tools:
     - Visual Studio
